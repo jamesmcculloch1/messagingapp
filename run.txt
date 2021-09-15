@@ -1,0 +1,3 @@
+npm start from within messagingapp folder
+
+nodemon server.js from with server folder
