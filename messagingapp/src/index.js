@@ -9,5 +9,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-
-//13mins in https://www.youtube.com/watch?v=tBr-PybP_9c
